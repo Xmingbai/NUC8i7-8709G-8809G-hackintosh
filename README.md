@@ -4,7 +4,7 @@
 
 
 # 采购地址：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.35.53715c3el2QqNS&id=654786350173
-i7-8709G AMD魔改驱动： https://zhuanlan.zhihu.com/p/333841073
+
 
 
 
@@ -29,10 +29,10 @@ i7-8709G AMD魔改驱动： https://zhuanlan.zhihu.com/p/333841073
 
 
 独家定制启动主题
+![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/%E4%B8%BB%E9%A2%98mac.PNG)
 
 
-
-目前完善程度 99% （支持11.x 和12.x）
+MacOS目前完善程度 99% （支持11.x 和12.x）
 
 CPU 核心识别正常，睿频正常；
 
@@ -52,5 +52,5 @@ USB识别正常；
 
 
 
-
+i7-8709G windows 下 AMD独显魔改驱动： https://zhuanlan.zhihu.com/p/333841073
 
