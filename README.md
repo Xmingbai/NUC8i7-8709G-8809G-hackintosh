@@ -9,7 +9,7 @@ i7-8709G AMD魔改驱动： https://zhuanlan.zhihu.com/p/333841073
 
 
 正面采用骷髅头呼吸灯设计
-![](https://github.com/Xmingbai/hackintosh-opencore--UI-theme/blob/main/TipsBackground.png)
+![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/2.png)
 
 体积大小： 228x145x44mm  仅仅1.45升 比ipad pro（2018）还要小一圈
 
@@ -25,6 +25,10 @@ i7-8709G AMD魔改驱动： https://zhuanlan.zhihu.com/p/333841073
 内部有1个M.2 WiFi接口，无需硬改就可以支持黑苹果无线网卡
 2个2280 的M.2 NVME SSD 接口
 2个笔记本内存插槽，最高支持（2x32） 64G  DDR4 2666 
+
+
+
+独家定制启动主题
 
 
 
