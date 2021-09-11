@@ -9,11 +9,12 @@
 
 
 正面采用骷髅头呼吸灯设计
+
 ![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/2.png)
 
 体积大小： 228x145x44mm  仅仅1.45升 比ipad pro（2018）还要小一圈
 
-![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/%E4%B8%BB%E9%A2%98mac.PNG)
+![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/4.png)
 
 # 接口分布
 
