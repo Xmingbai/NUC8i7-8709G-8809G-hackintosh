@@ -40,11 +40,12 @@
 
 
 
-独家定制启动主题
+# 独家定制启动主题
+
 ![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/%E4%B8%BB%E9%A2%98mac.PNG)
 
 
-MacOS目前完善程度 99% （支持11.x 和12.x）
+# MacOS目前完善程度 99% （支持11.x 和12.x）
 
 CPU 核心识别正常，睿频正常；
 
@@ -59,6 +60,7 @@ USB识别正常；
 双有线网卡正常，WIFI蓝牙正常，支持隔空投送接力随航全功能；
 
 睡眠唤醒正常，支持USB唤醒。
+
 
 作者：小明和他的女朋友 https://www.bilibili.com/read/cv13026923?spm_id_from=333.999.0.0 
 
