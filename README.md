@@ -13,17 +13,28 @@
 
 体积大小： 228x145x44mm  仅仅1.45升 比ipad pro（2018）还要小一圈
 
+![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/%E4%B8%BB%E9%A2%98mac.PNG)
+
+# 接口分布
+
 前置 ：一个SD卡槽、4个USB3.0 +TYPE-C（非全功能）、开机键
+
 后置：DC电源插口（准系统自带19V 180W）
+
            4个USB2.0
+           
            2个HDMI，2个mini DP   支持4屏4K60hz显示输出
+           
            2个千兆有线网口 
 
 底部进风口可以看出CPU 和AMD vega 独显各自独立风扇 散热压制，
 
 取下底部的6个螺丝，就可以拆下顶盖
+
 内部有1个M.2 WiFi接口，无需硬改就可以支持黑苹果无线网卡
+
 2个2280 的M.2 NVME SSD 接口
+
 2个笔记本内存插槽，最高支持（2x32） 64G  DDR4 2666 
 
 
