@@ -62,8 +62,16 @@ USB识别正常；
 睡眠唤醒正常，支持USB唤醒。
 
 
-作者：小明和他的女朋友 https://www.bilibili.com/read/cv13026923?spm_id_from=333.999.0.0 
+B站测试视频 
+https://www.bilibili.com/video/BV1jb4y1275z?spm_id_from=333.999.0.0
 
+https://www.bilibili.com/video/BV1Gf4y1P7jR?spm_id_from=333.999.0.0
+
+
+
+https://www.bilibili.com/read/cv13026923?spm_id_from=333.999.0.0 
+
+作者：小明和他的女朋友
 
 
 i7-8709G windows 下 AMD独显魔改驱动： https://zhuanlan.zhihu.com/p/333841073
