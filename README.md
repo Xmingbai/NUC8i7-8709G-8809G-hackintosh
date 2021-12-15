@@ -1,11 +1,17 @@
 # NUC8i7-8709G-hackintosh
 冥王峡谷青春复刻版   只有一半价格 同等体验  3000元准系统
 
+# 更新OC至）0.76正式版
+更新kexts至最新版
+
+# 支持Catalina、big sur 、Monterey 12.1正式版
+
 
 
 # 采购地址：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.35.53715c3el2QqNS&id=654786350173
 
 
+![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/8809G.png)
 
 
 正面采用骷髅头呼吸灯设计
