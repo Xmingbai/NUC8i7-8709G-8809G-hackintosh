@@ -1,7 +1,7 @@
 # NUC8i7-8809G&8709G-hackintosh
 冥王峡谷青春复刻版  
 
-# 更新OC至）0.76正式版
+# 更新OC至0.76正式版
 更新kexts至最新版
 
 # 支持Catalina、big sur 、Monterey 12.1正式版
