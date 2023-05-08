@@ -8,7 +8,7 @@
 
 
 
-# 采购地址：https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23032779536.35.53715c3el2QqNS&id=654786350173
+
 
 
 ![](https://github.com/Xmingbai/NUC8i7-8709G-hackintosh/blob/main/8809G.png)
